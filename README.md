@@ -1,1 +1,1 @@
-hugo
+This is the blog setup for the Trader Nexan [Repo](https://github.com/Nexan-Stuff/trader-nexan) and [website](https://trader-nexan.neocities.org)
