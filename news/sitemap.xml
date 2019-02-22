@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://trader-nexan.neocities.org/news/posts/hello-world/</loc>
+    <lastmod>2019-02-21T17:37:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trader-nexan.neocities.org/news/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trader-nexan.neocities.org/news/posts/</loc>
+    <lastmod>2019-02-21T17:37:55-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trader-nexan.neocities.org/news/</loc>
+    <lastmod>2019-02-21T17:37:55-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trader-nexan.neocities.org/news/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

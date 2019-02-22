@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on TNNN</title>
+    <link>https://trader-nexan.neocities.org/news/posts/</link>
+    <description>Recent content in Posts on TNNN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 17:37:55 -0600</lastBuildDate>
+    
+	<atom:link href="https://trader-nexan.neocities.org/news/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://trader-nexan.neocities.org/news/posts/hello-world/</link>
+      <pubDate>Thu, 21 Feb 2019 17:37:55 -0600</pubDate>
+      
+      <guid>https://trader-nexan.neocities.org/news/posts/hello-world/</guid>
+      <description>Hello to all you special people! My name is Trader Nexan (or at least, that&amp;rsquo;s what I&amp;rsquo;m going by here), and I&amp;rsquo;m starting this blog to just have somewhere to write that doesnt put me under any pressure, have social networking features (like Tumblr does), and kind of lets me express my feelings on certain subjects, including Disney, Theme Parks, Technology, and more! Those are just a few examples of my interest, and you&amp;rsquo;ll get a taste of what I like if you read this blog</description>
+    </item>
+    
+  </channel>
+</rss>

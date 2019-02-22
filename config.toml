@@ -1,0 +1,34 @@
+baseURL = "https://trader-nexan.neocities.org/news"
+languageCode = "en-us"
+title = "Trader Nexan News Network"
+theme = "terminal"
+publishDir = "news"
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "orange"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+
+[languages]
+  [languages.en]
+    title = "TNNN"
+    subtitle = "Posting News When I Want"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "Trader Nexan's News Network"
+      logoHomeLink = "/news"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "https://trader-nexan.neocities.org"
+      
