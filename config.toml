@@ -8,7 +8,7 @@ publishDir = "news"
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "green"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
 
@@ -29,6 +29,10 @@ publishDir = "news"
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "home"
-        name = "Home"
+        name = "Site Home"
         url = "https://trader-nexan.neocities.org"
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "Blog Home"
+        url = "/"
       
