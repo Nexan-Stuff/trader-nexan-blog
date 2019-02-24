@@ -10,7 +10,10 @@ publishDir = "news"
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [languages]
   [languages.en]
@@ -31,8 +34,14 @@ publishDir = "news"
         identifier = "home"
         name = "Site Home"
         url = "https://trader-nexan.neocities.org"
+        weight = 100
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog Home"
         url = "/"
-      
+        weight = 110
+      [[languages.en.menu.main]]
+        identifier = "category"
+        name = "Categories"
+        url = "/categories"
+        weight = 200
